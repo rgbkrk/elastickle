@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rgbkrk/elastickle/issues"
   },
-  "homepage": "https://github.com/rgbkrk/elastickle#readme"
+  "homepage": "https://github.com/rgbkrk/elastickle#readme",
+  "dependencies": {
+    "elasticsearch": "^11.0.1"
+  }
 }
