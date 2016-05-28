@@ -1,0 +1,19 @@
+{
+  "name": "elastickle",
+  "version": "1.0.0",
+  "description": "Tickling elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgbkrk/elastickle.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/rgbkrk/elastickle/issues"
+  },
+  "homepage": "https://github.com/rgbkrk/elastickle#readme"
+}
